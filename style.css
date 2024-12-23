@@ -1,0 +1,35 @@
+.mother{
+    width: 100%;
+    display: flex;
+}
+main{
+    float: left;
+    width: 75%;
+    ali
+}
+form{
+    width: 25%;
+margin: 
+}
+aside{
+    border-radius: ;
+    float: right;
+    background-color: goldenrod;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    padding: 20px;
+    overflow: scroll;
+}
+table{
+    width: 400px;
+    background-color: yellow;
+color: hwb(0 50% 50%);
+}
+table tr{
+    width: 100%;
+
+}
